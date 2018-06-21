@@ -8,6 +8,6 @@ class Dog
   end
 end
 
-dog=Dog.new ("Fido")
-dog=Dog.new ("Snoopy")
-dog=Dog.new ("Lassie")
+fido=Dog.new ("Fido")
+snoopy=Dog.new ("Snoopy")
+lassie=Dog.new ("Lassie")

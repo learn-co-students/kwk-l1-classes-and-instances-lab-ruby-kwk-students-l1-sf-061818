@@ -9,5 +9,5 @@ class Person
   end
 end
 
-dog=Person.new ("Adele Goldberg")
-dog=Person.new ("Aland Kay")
+adele_goldberg=Person.new ("Adele Goldberg")
+alan_kay=Person.new ("Alan Kay")
