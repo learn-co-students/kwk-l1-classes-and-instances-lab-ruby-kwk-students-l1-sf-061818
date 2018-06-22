@@ -1,7 +1,10 @@
 # dog.rb
 class Dog
-  @fido = fido
-  @snoopy = snoopy
-  @lassie = lassie
+  def initialize(name)
+  @name = name
+  end
 end
 
+fido = Dog.new("fido")
+snoopy = Dog.new("snoopy")
+lassie = Dog.new("lassie")
