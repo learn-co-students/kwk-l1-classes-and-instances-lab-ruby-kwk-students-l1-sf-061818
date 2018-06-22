@@ -1,7 +1,8 @@
 # dog.rb
 class Dog 
-  def initialize
- 
+  attr_accessible :fido, :snoopy, :lassie
+  def initialize(dog)
+    @breed = 
   end
 end 
 fido = Dog.new
